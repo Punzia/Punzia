@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Punzia
-- 👀 I’m interested in programming and art
-- 🌱 I’m currently learning C#, JavaScript and Python 
-- 💞️ I’m currently collaborating on making a Discord Bot
+- 👋 Hi, I’m @Punzia!
+- 👀 I’m interested in programming and art.
+- 🌱 I’m currently learning C#, JavaScript and Python. 
+- 💞️ I’m currently collaborating on making a Discord Bot.
 - 📫 How to reach me; on Twitter.
 
 <!---
