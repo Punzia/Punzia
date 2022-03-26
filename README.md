@@ -1,3 +1,6 @@
+<style>
+* {font-family: Arial}
+</style>
 # 👋 𝘏𝘪, 𝘐’𝘮 𝘗𝘶𝘯𝘻𝘪𝘢! ![img](https://i.imgur.com/fQp76Nx.png) #
 
 ## About~
