@@ -1,6 +1,4 @@
-<style>
-* {font-family: Arial}
-</style>
+
 # 👋 𝘏𝘪, 𝘐’𝘮 𝘗𝘶𝘯𝘻𝘪𝘢! ![img](https://i.imgur.com/fQp76Nx.png) #
 
 ## About~
@@ -12,11 +10,11 @@
 ## Socials~
 
 ## Projects:
-![img](https://i.imgur.com/ZqNQBmc.png) [L4D2 Survivors](https://l4d2.punzia.com/ "L4D2 Survivors") 
+<img src="https://i.imgur.com/ZqNQBmc.png" width="24" height="24" alt="Click to see the source"> [L4D2 Survivors](https://l4d2.punzia.com/ "L4D2 Survivors") 
 
 [Database](https://db.punzia.com/ "Database")
 
-
+![img](https://i.imgur.com/ZqNQBmc.png)
 
 
 ![img](https://i.imgur.com/YGpaDfK.gif)
