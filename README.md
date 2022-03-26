@@ -7,7 +7,7 @@
 
 
 ## Projects:
-- L4D2 Survivors ![img](https://i.imgur.com/o4nvrNF.png)
+- L4D2 Survivors ![img](https://i.imgur.com/ZqNQBmc.png)
 - Database
 
 
