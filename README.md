@@ -7,8 +7,8 @@
 
 
 ## Projects:
-- L4D2 Survivors ![img](https://i.imgur.com/ZqNQBmc.png)
-- Database
+- [L4D2 Survivors](https://www.google.com "L4D2 Survivors") ![img](https://i.imgur.com/ZqNQBmc.png)
+- [Database](https://www.google.com "Database")
 
 
 
