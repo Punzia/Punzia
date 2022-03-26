@@ -9,7 +9,7 @@
 ## Socials~
 
 ## Projects:
-![img](https://i.imgur.com/ZqNQBmc.png)- [L4D2 Survivors](https://l4d2.punzia.com/ "L4D2 Survivors") 
+- ![img](https://i.imgur.com/ZqNQBmc.png) [L4D2 Survivors](https://l4d2.punzia.com/ "L4D2 Survivors") 
 - [Database](https://db.punzia.com/ "Database")
 
 
