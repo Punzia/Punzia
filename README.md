@@ -1,5 +1,7 @@
 
 # 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #
+<img src="https://i.imgur.com/1NXhI3v.png">
+
 ### About~
 - 👀 I'm interested in programming, modding and art!
 - 🌱 (っ◔◡◔)っ I'm currently learning C#, Javascript and Python~ ♥
