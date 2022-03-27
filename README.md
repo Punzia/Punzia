@@ -25,6 +25,7 @@
 - 🦎 Disney Tangled
 - 💙 League of Legends
 - 🧟‍♀️ Left 4 Dead 2
+- 🔫 Apex Legends
 
 <!--![img](https://i.imgur.com/YGpaDfK.gif)-->
 
