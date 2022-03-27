@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-### Socials~
+### Platformss~
 - [Steam - SleepyRapunzel](https://steamcommunity.com/id/sleepyrapunzel "Steam - SleepyRapunzel") <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="20" height="20" style="display:inline-block" alt="steam">
 - [Twitter - SleepyRapunzel](https://twitter/sleepyrapunzel "Twitter - SleepyRapunzel")
 ### Projects~
