@@ -18,9 +18,9 @@
 - 🔗 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="20" height="20" style="display:inline-block" alt="steam"> Steam](https://steamcommunity.com/id/sleepyrapunzel "Steam - SleepyRapunzel") 
 - 🔗 [Twitter](https://twitter/sleepyrapunzel "Twitter - SleepyRapunzel")
 ### Projects~
-- [**Left 4 Dead 2 Survivor Cards**](https://l4d2.punzia.com/ "L4D2 Survivors") <img src="https://i.imgur.com/ZqNQBmc.png" height="32" alt="l4d2">
-- [**Team Fortress 2 Character Cards**](https://tf2.punzia.com/ "TF2 Characters") <img src="https://i.imgur.com/ZqNQBmc.png" height="32" alt="tf2">
-- [**LevelUpDB - Database**](https://db.punzia.com/ "LevelUpDB - Database") <img src="https://i.imgur.com/cn7DjVe.png" width="32" height="32" style="display:inline-block" alt="db">
+- [**Left 4 Dead 2 Survivor Cards**](https://l4d2.punzia.com/ "L4D2 Survivors") <img src="https://i.imgur.com/ZqNQBmc.png" height="24" alt="l4d2">
+- [**Team Fortress 2 Character Cards**](https://tf2.punzia.com/ "TF2 Characters") <img src="https://i.imgur.com/LCmwpH9.png" height="24" alt="tf2">
+- [**LevelUpDB - Database**](https://db.punzia.com/ "LevelUpDB - Database") <img src="https://i.imgur.com/cn7DjVe.png" height="24" style="display:inline-block" alt="db">
 
 ### 🎮 Games~
 - 🦎 Disney Tangled
