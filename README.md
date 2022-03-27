@@ -15,7 +15,7 @@
 - [Steam](https://steamcommunity.com/id/sleepyrapunzel "Steam - SleepyRapunzel") <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="20" height="20" style="display:inline-block" alt="steam">
 ### Projects~
 - [L4D2 Survivors](https://l4d2.punzia.com/ "L4D2 Survivors") <img src="https://i.imgur.com/ZqNQBmc.png" width="32" style="display:inline-block" alt="l4d2">
-- [Database](https://db.punzia.com/ "LevelUpDB - Database") <img src="https://i.imgur.com/cn7DjVe.png" width="32" height="32" style="display:inline-block" alt="db">
+- [LevelUpDB - Database](https://db.punzia.com/ "LevelUpDB - Database") <img src="https://i.imgur.com/cn7DjVe.png" width="32" height="32" style="display:inline-block" alt="db">
 
 ![img](https://i.imgur.com/YGpaDfK.gif)
 
