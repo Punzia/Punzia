@@ -1,7 +1,7 @@
 
 # 👋 𝘏𝘪, 𝘐’𝘮 𝘗𝘶𝘯𝘻𝘪𝘢! ![img](https://i.imgur.com/fQp76Nx.png) #
 
-<img src="https://i.pinimg.com/564x/ae/05/06/ae050605cd199140a05c120a1c7f81ae.jpg" style="border-radius: 50px;height: 100px;width:100px;">
+<img src="https://i.pinimg.com/564x/ae/05/06/ae050605cd199140a05c120a1c7f81ae.jpg" style="border-radius: 50px;height: 100px;width:100px;"> Hi! I'm Mira! software developer!
 
 ## About~
 - 👀 𝘐’𝘮 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨, 𝘮𝘰𝘥𝘥𝘪𝘯𝘨 𝘢𝘯𝘥 𝘢𝘳𝘵.
