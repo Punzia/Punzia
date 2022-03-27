@@ -1,6 +1,7 @@
 
 # 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #
-<img src="https://i.imgur.com/1NXhI3v.png">
+<img src="https://i.imgur.com/aRZNewQ.png">
+![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")
 
 ### About~
 - 👀 I'm interested in programming, modding and art!
