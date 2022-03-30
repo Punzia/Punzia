@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/En8r4Zm.png">
 <!--![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")-->
 
-## 🐱‍💻About~
+## 👩‍💻 About
 - 👀 I'm interested in programming, modding and art!
 - 🌱 (っ◔◡◔)っ I'm currently learning C#, Javascript and Python~ ♥
 <!-- - 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")-->
