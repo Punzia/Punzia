@@ -6,7 +6,7 @@
 ### About~
 - 👀 I'm interested in programming, modding and art!
 - 🌱 (っ◔◡◔)っ I'm currently learning C#, Javascript and Python~ ♥
-- 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")
+<!-- - 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")-->
 <!--- 💞️ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯..-->
 **🖥️ Languages and Tools~**  
 
@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-### 🔗 Platforms
+### 💬 Socials
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="16" height="16" alt="steam"> Steam](https://steamcommunity.com/id/sleepyrapunzel "Steam - SleepyRapunzel") 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" height="12" alt="twitter"> Twitter](https://twitter/sleepyrapunzel "Twitter - SleepyRapunzel")
 
