@@ -23,11 +23,11 @@
 - [**<img src="https://i.imgur.com/LCmwpH9.png" height="16" alt="tf2"> Team Fortress 2 Character Cards**](https://tf2.punzia.com/ "TF2 Characters") 
 - [**<img src="https://db.punzia.com/punzia_levelup/lvluplogo-e1565424172599-1.png" height="16" alt="db"> LvlupDb**](https://db.punzia.com/ "LevelUpDB - Database") 
 
-## Hobbies
+## ⏳ Hobbies
 **🛠️ Modding & Map Creation**
 - HammerEditor (Making maps)
 
-### 🎮 Gaming
+**🎮 Gaming**
 - 🦎 Disney Tangled
 - 💙 League of Legends
 - 🧟‍♀️ Left 4 Dead 2
