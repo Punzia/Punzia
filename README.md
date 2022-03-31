@@ -17,6 +17,7 @@
 ## 💬 Socials
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="16" height="16" alt="steam"> Steam](https://steamcommunity.com/id/sleepyrapunzel "Steam - SleepyRapunzel") 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" height="12" alt="twitter"> Twitter](https://twitter/sleepyrapunzel "Twitter - SleepyRapunzel")
+- [Youtube](https://www.youtube.com/c/Rapunzelx "Youtube")
 
 ## 🚧 Projects
 - [**<img src="https://i.imgur.com/ZqNQBmc.png" height="16" alt="l4d2"> Left 4 Dead 2 Survivor Cards**](https://l4d2.punzia.com/ "L4D2 Survivors") 
