@@ -38,7 +38,8 @@ const punzia = {
       🦎: Disney Tangled,
       💙: League of Legends,
       🧟‍: Left 4 Dead 2,
-      🔫: Apex Legends
+      🔫: Apex Legends,
+      💎: Overwatch
    }
 }
 ```
