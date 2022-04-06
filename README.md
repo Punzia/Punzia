@@ -35,28 +35,20 @@
 - 🔫 Apex Legends
 -->
 <!--##############################################################-->
-```
-var punzia = 
-    {
-        "about": {
-            "name": "Mira",
-            "description": "sleepy princess",
-            "TechStack": {
-                "lang0": "Javascript",
-                "lang1": "C# .NET",
-                "lang3": "Python"
-            }
-            "FavoriteGames": {
-                "🦎": "Disney Tangled",
-                "💙 ": "League of Legends",
-                "🧟‍": "Left 4 Dead 2",
-                "🔫": "Apex Legends"
-            }
-            "Projects": {
-            "ProjectPage": "projects.punzia.com"
-            }
-        }
-    }
+``
+const punzia = {
+   name: Mira,
+   description: sleepy princess,
+   code: [Javascript, C# .NET, Python ],
+   Projects: projects.punzia.com
+   FavoriteGames: {
+      🦎: Disney Tangled,
+      💙: League of Legends,
+      🧟‍: Left 4 Dead 2,
+      🔫: Apex Legends
+    },
+    Hobby: [Coding, Yoga, Drawing, Gaming]                   
+}
 ```
 
 <!--##############################################################-->
