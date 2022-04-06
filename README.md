@@ -35,7 +35,7 @@
 - 🔫 Apex Legends
 -->
 <!--##############################################################-->
-``
+```
 const punzia = {
    name: Mira,
    description: sleepy princess,
