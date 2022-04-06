@@ -40,14 +40,14 @@ const punzia = {
    name: Mira,
    description: sleepy princess,
    code: [Javascript, C# .NET, Python ],
-   Projects: projects.punzia.com
+   Projects: projects.punzia.com,
+   Hobby: [Coding, Yoga, Drawing, Gaming],
    FavoriteGames: {
       🦎: Disney Tangled,
       💙: League of Legends,
       🧟‍: Left 4 Dead 2,
       🔫: Apex Legends
-    },
-    Hobby: [Coding, Yoga, Drawing, Gaming]                   
+   }
 }
 ```
 
