@@ -39,8 +39,13 @@
 var punzia = 
     {
         "about": {
-            "name": "Punzia",
-            "likes": "Programming, Modding and Art",
+            "name": "Mira",
+            "description": "sleepy princess",
+            "TechStack": {
+                "lang0": "Javascript",
+                "lang1": "C# .NET",
+                "lang3": "Python"
+            }
             "FavoriteGames": {
                 "🦎": "Disney Tangled",
                 "💙 ": "League of Legends",
