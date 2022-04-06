@@ -31,6 +31,7 @@
 ```
 const punzia = {
    name: Mira,
+   nickname: Rinna
    description: sleepy princess,
    🖥️techstack: [Javascript, C# .NET, Python, PHP, SQL],
    🚧Projects: projects.punzia.com,
