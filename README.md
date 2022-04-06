@@ -24,7 +24,7 @@
 ## ⏳ Hobbies
 **🛠️ Modding & Map Creation**
 - HammerEditor (Making maps)
-
+-->
 
 Hi I'm Mira, Hobbyist Software Developer that code, play games and collect stuff
 <!--##############################################################-->
