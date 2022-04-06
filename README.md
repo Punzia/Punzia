@@ -29,11 +29,11 @@
 
 <!--##############################################################-->
 ```
-const punzia = {
-   name: Mira,
-   nickname: Rinna,
-   description: sleepy princess,
-   🖥️techstack: [Javascript, C# .NET, Python, PHP, SQL],
+const Punzia = {
+   Name: Mira,
+   Nickname: Rinna,
+   Description: sleepy princess,
+   🖥️TechStack: [Javascript, C# .NET, Python, PHP, SQL, Java, HTML, CSS],
    🚧Projects: projects.punzia.com,
    ⏳Hobby: [Coding, Yoga, Drawing, Gaming],
    🎮FavoriteGames: {
