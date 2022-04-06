@@ -38,11 +38,17 @@
 ```
 var punzia = 
     {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "About": {
-                "name": "Punzia
+        "about": {
+            "name": "Punzia",
+            "likes": "Programming, Modding and Art",
+            "FavoriteGames": {
+                "🦎": "Disney Tangled",
+                "💙 ": "League of Legends",
+                "🧟‍": "Left 4 Dead 2",
+                "🔫": "Apex Legends"
+            }
+            "Projects": {
+            "ProjectPage": "projects.punzia.com"
             }
         }
     }
