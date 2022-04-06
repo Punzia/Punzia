@@ -4,10 +4,10 @@
 <!--![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")-->
 
 ## 👩‍💻 About
-<!-- 
+
 - 👀 I'm interested in programming, modding and art!
-- 🌱 (っ◔◡◔)っ I'm currently learning C#, Javascript and Python~ ♥
-- 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")-->
+- 🌱 (っ◔◡◔)っ I'm currently learning C# and Javascript ♥
+- 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")
 <!--- 💞️ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯..-->
 
 <!--
@@ -31,7 +31,7 @@
 ```
 const punzia = {
    name: Mira,
-   nickname: Rinna
+   nickname: Rinna,
    description: sleepy princess,
    🖥️techstack: [Javascript, C# .NET, Python, PHP, SQL],
    🚧Projects: projects.punzia.com,
@@ -41,7 +41,8 @@ const punzia = {
       💙: League of Legends,
       🧟‍: Left 4 Dead 2,
       🔫: Apex Legends,
-      💎: Overwatch
+      💎: Overwatch,
+      🪦: Tomb Raider
    }
 }
 ```
