@@ -31,7 +31,7 @@
 const punzia = {
    name: Mira,
    description: sleepy princess,
-   🖥️code: [Javascript, C# .NET, Python ],
+   🖥️techstack: [Javascript, C# .NET, Python, PHP, SQL],
    🚧Projects: projects.punzia.com,
    ⏳Hobby: [Coding, Yoga, Drawing, Gaming],
    🎮FavoriteGames: {
