@@ -44,7 +44,7 @@ const punzia = {
    FavoriteGames: {
       🦎: Disney Tangled,
       💙: League of Legends,
-      🧟‍: Left 4 Dead 2 <img src="https://i.imgur.com/ZqNQBmc.png" height="16" alt="l4d2">,
+      🧟‍: Left 4 Dead 2,
       🔫: Apex Legends
     },
     Hobby: [Coding, Yoga, Drawing, Gaming]                   
