@@ -1,5 +1,5 @@
 
-<!--# 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #-->
+# 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #
 <img src="https://i.imgur.com/En8r4Zm.png">
 <!--![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")-->
 
