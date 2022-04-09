@@ -1,6 +1,7 @@
 
 # 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #
-![Untitasdasdaled-1](https://user-images.githubusercontent.com/28727157/162588376-9e8e043e-886b-4cb5-a501-765b85a2bdc5.png)
+![Untitldasdaed-1](https://user-images.githubusercontent.com/28727157/162589498-a66c0557-6a30-4281-bb70-04717f3f098a.png)
+
 
 <!--<img src="https://i.imgur.com/En8r4Zm.png">-->
 <!--![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")-->
