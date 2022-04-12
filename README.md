@@ -1,5 +1,5 @@
 
-# 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #
+<!--# 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #-->
 ![Untitldasdaed-1](https://user-images.githubusercontent.com/28727157/162589498-a66c0557-6a30-4281-bb70-04717f3f098a.png)
 
 
