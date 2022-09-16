@@ -42,17 +42,17 @@ const Punzia = {
    Nickname: Rinna,
    Description: sleepy princess,
    Location: localhost,
-   🖥️TechStack: [Javascript, C# .NET, Python, PHP, SQL, Java, HTML, CSS],
+   🖥️TechStack: ['Javascript', 'C# .NET', 'Python', 'PHP', 'SQL', 'Java', 'HTML', 'CSS'],
    🚧Projects: projects.punzia.com,
-   ⏳Hobby: [Coding, Yoga, Drawing, Gaming],
+   ⏳Hobby: ['Coding', 'Yoga', 'Drawing', 'Gaming'],
    🎮FavoriteGames: {
-      🦎: Disney Tangled,
-      💙: League of Legends,
-      🧟‍: Left 4 Dead 2,
-      🔫: Apex Legends,
-      💎: Overwatch,
-      🗺️: Tomb Raider,
-      ⭐: Star Wars
+      🦎: 'Disney Tangled',
+      💙: 'League of Legends',
+      🧟‍: 'Left 4 Dead 2',
+      🔫: 'Apex Legends',
+      💎: 'Overwatch',
+      🗺️: 'Tomb Raider',
+      ⭐: 'Star Wars'
    }
 }
 ```
