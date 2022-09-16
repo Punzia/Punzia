@@ -36,7 +36,7 @@
 
 
 
-```
+```javascript
 const Punzia = {
    Name: Mira,
    Nickname: Rinna,
