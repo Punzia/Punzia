@@ -38,12 +38,12 @@
 
 ```javascript
 const Punzia = {
-   Name: Mira,
-   Nickname: Rinna,
-   Description: sleepy princess,
+   Name: 'Mira',
+   Nickname: 'Rinna',
+   Description: 'sleepy princess',
    Location: localhost,
    🖥️TechStack: ['Javascript', 'C# .NET', 'Python', 'PHP', 'SQL', 'Java', 'HTML', 'CSS'],
-   🚧Projects: projects.punzia.com,
+   🚧Projects: 'projects.punzia.com',
    ⏳Hobby: ['Coding', 'Yoga', 'Drawing', 'Gaming'],
    🎮FavoriteGames: {
       🦎: 'Disney Tangled',
