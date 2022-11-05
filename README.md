@@ -42,7 +42,7 @@ const Punzia = {
    Nickname: 'Rinna',
    Description: 'sleepy princess',
    Location: localhost,
-   🖥️TechStack: ['Javascript', 'C# .NET', 'Python', 'PHP', 'SQL', 'Java', 'HTML', 'CSS'],
+   🖥️TechStack: ['Javascript', 'C#', 'Python', 'PHP', 'SQL', 'Java', 'HTML', 'CSS'],
    🚧Projects: 'projects.punzia.com',
    ⏳Hobby: ['Coding', 'Yoga', 'Drawing', 'Gaming'],
    🎮FavoriteGames: {
