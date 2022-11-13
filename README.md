@@ -46,7 +46,7 @@ const Punzia = {
    🚧Projects: 'projects.punzia.com',
    ⏳Hobby: ['Coding', 'Yoga', 'Drawing', 'Gaming'],
    🎮FavoriteGames: {
-      🦎: 'Disney Tangled',
+      🦎: 'Disney Dreamlight Valley',
       💙: 'League of Legends',
       🧟‍: 'Left 4 Dead 2',
       🔫: 'Apex Legends',
