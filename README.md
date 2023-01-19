@@ -1,7 +1,8 @@
 
 <!--# 👋 Hi I'm Punzia! ![img](https://i.imgur.com/fQp76Nx.png) #-->
 <!--![punzia](https://user-images.githubusercontent.com/28727157/163025283-b5888782-51f2-4744-9426-0f9b9cae6dbc.png)-->
-![Comp 1](https://user-images.githubusercontent.com/28727157/213575819-2f0b02cf-3b82-4df1-9fbf-4f9b17f58ebb.gif)
+![Comp 1_1](https://user-images.githubusercontent.com/28727157/213576333-1d7c4ee9-af3a-4344-be21-c49ad8518bda.gif)
+
 
 
 
