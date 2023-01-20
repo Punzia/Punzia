@@ -10,7 +10,7 @@
 <!--<img src="https://i.imgur.com/En8r4Zm.png">-->
 <!--![img](https://i.imgur.com/aRZNewQ.png, "The reason I have Rapunzel from the Tangled game is cause of the reason due to my liking for game modding!")-->
 
-## 👩‍💻 About
+## 👩‍💻 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
 - 👀 I'm interested in programming, modding and art!
 - 🌱 (っ◔◡◔)っ I'm currently learning C#, Golang and Javascript ♥
