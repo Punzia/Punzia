@@ -59,7 +59,7 @@ const Punzia = {
    }
 }
 ```
-![](https://activity-graph.herokuapp.com/graph?username=punzia&theme=redical)
+
 
 <!--##############################################################-->
 <!--![img](https://i.imgur.com/YGpaDfK.gif)-->
