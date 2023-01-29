@@ -52,7 +52,8 @@ const Punzia = {
       💎: 'Overwatch',
       🗺️: 'Tomb Raider',
       ⭐: 'Star Wars'
-   }
+   },
+   🎥FavoriteMovies: ['Tangled']
 }
 ```
 
