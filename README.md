@@ -44,6 +44,7 @@ const Punzia = {
    🖥️TechStack: ['Javascript', 'C#', 'Python', 'PHP', 'SQL', 'Java', 'HTML', 'CSS'],
    🚧Projects: 'projects.punzia.com',
    ⏳Hobby: ['Coding', 'Yoga', 'Drawing', 'Gaming'],
+   🎥FavoriteMovies: ['Tangled'],
    🎮FavoriteGames: {
       🦎: 'Disney Dreamlight Valley',
       💙: 'League of Legends',
@@ -52,8 +53,7 @@ const Punzia = {
       💎: 'Overwatch',
       🗺️: 'Tomb Raider',
       ⭐: 'Star Wars'
-   },
-   🎥FavoriteMovies: ['Tangled']
+   }  
 }
 ```
 
