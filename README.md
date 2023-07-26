@@ -15,7 +15,7 @@
 
 - 👀 I'm interested in programming, modding and art!
 - 🌱 (っ◔◡◔)っ I'm currently learning C#, Go and Javascript ♥
-- 📫 How to reach me: on [Twitter](https://twitter.com/sleepyrapunzel "Twitter")
+<!-- 📫 How to reach me: on -->
 <!--- 💞️ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯..-->
 
 <!--
